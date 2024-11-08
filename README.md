@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Rahman!
 
-I'm a beginner developer from Indonesia, exploring the world of coding and enjoying the process of learning and creating. On my GitHub, you’ll find small projects that showcase my journey and progress in programming. I'm here to connect, grow, and build alongside others. Let's make something awesome together!
+I'am a beginner developer from Indonesia who likes to learn and create things while exploring the world of coding. On my GitHub you can find small projects showcasing my programming developments. My goal is to develop and progress. Together, let's create something extraordinary!
 
 ## 🚀 About Me
 
