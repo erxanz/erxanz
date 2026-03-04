@@ -186,18 +186,6 @@ A fully functional donation management platform serving a real organization, han
 
 ---
 
-## 💼 Why Hire Me for Internship?
-
-```diff
-+ Real production experience with deployed application
-+ Strong foundation in backend development (Laravel, Node.js)
-+ Self-motivated learner - constantly improving skills
-+ Experience with Linux server deployment and management
-+ Good understanding of databases and API development
-+ Familiar with version control and collaboration tools
-+ Ready to contribute and learn from experienced developers
-```
-
 ---
 
 ## 🤝 Let's Connect
