@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   Informatics Student | Backend Developer | Open to Internship Opportunities
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
@@ -32,7 +32,7 @@ const rahman = {
     lookingFor: "Junior Backend Developer Internship",
     
     dailyRoutine: function() {
-        return ["Code 💻", "Learn 📚", "Build Projects 🚀", "Repeat ♻️"];
+        return ["Code", "Learn", "Build Projects", "Repeat"];
     },
     
     quote: "Progress over perfection - Every day is a chance to improve"
@@ -42,31 +42,33 @@ const rahman = {
 🎯 **Current Status:** Actively seeking **Junior Backend Developer Internship** opportunities
 
 📚 **Learning Journey:**
-- 🔥 Building robust backend systems with **Laravel** and **PHP**
-- 🌱 Exploring **Node.js** and modern JavaScript frameworks
-- 💾 Working with **MySQL** and database optimization
-- 🐧 Learning **Linux Server Administration** and deployment
-- 🔐 Understanding authentication, security, and best practices
+
+- Building robust backend systems with **Laravel** and **PHP**
+- Exploring **Node.js** and modern JavaScript frameworks
+- Working with **MySQL** and database optimization
+- Learning **Linux Server Administration** and deployment
+- Understanding authentication, security, and best practices
 
 ---
 
 ## 🚀 Featured Project
 
 <div align="center">
-  
-### 🏆 LAZISMU UMB Donation Management System
-  
+
+### LAZISMU UMB Donation Management System
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://lazismu.umb.ac.id)
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)]()
 
 </div>
 
-**Role:** Backend Developer  
+**Role:** Backend Developer
 **Organization:** LAZISMU Universitas Muhammadiyah Bengkulu
 
 A fully functional donation management platform serving a real organization, handling donation transactions and administrative operations.
 
-#### 💡 Key Achievements:
+#### 💡 Key Achievements
+
 - ✅ Developed complete backend architecture from scratch
 - ✅ Implemented secure authentication & authorization system
 - ✅ Designed and optimized MySQL database schema
@@ -74,7 +76,8 @@ A fully functional donation management platform serving a real organization, han
 - ✅ Created admin dashboard for donation management
 - ✅ Handled real user data with security best practices
 
-#### 🛠️ Technical Stack:
+#### 🛠️ Technical Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -83,7 +86,8 @@ A fully functional donation management platform serving a real organization, han
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-#### 📈 What I Learned:
+#### 📈 What I Learned
+
 - Full-stack deployment workflow on production servers
 - Database design for scalable applications
 - Security implementation (validation, sanitization, authentication)
@@ -95,6 +99,7 @@ A fully functional donation management platform serving a real organization, han
 ## 🛠️ Technical Skills
 
 ### Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -104,6 +109,7 @@ A fully functional donation management platform serving a real organization, han
 </p>
 
 ### Backend Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -112,6 +118,7 @@ A fully functional donation management platform serving a real organization, han
 </p>
 
 ### Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -119,6 +126,7 @@ A fully functional donation management platform serving a real organization, han
 </p>
 
 ### DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -132,11 +140,6 @@ A fully functional donation management platform serving a real organization, han
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erxanz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxanz&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
@@ -174,6 +177,7 @@ A fully functional donation management platform serving a real organization, han
 </table>
 
 **Continuous Learning:**
+
 - 🔐 API Security & Rate Limiting
 - 📦 Database Optimization & Indexing
 - 🚀 CI/CD Pipeline Implementation
@@ -196,7 +200,7 @@ A fully functional donation management platform serving a real organization, han
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p align="center">
   I'm actively looking for <b>Junior Backend Developer Internship</b> opportunities where I can contribute, learn, and grow.
