@@ -30,11 +30,11 @@ const rahman = {
     education: "Informatics Engineering Student",
     currentFocus: "Backend Development",
     lookingFor: "Junior Backend Developer Internship",
-    
+
     dailyRoutine: function() {
         return ["Code", "Learn", "Build Projects", "Repeat"];
     },
-    
+
     quote: "Progress over perfection - Every day is a chance to improve"
 };
 ```
@@ -139,6 +139,24 @@ A fully functional donation management platform serving a real organization, han
 
 ---
 
+### Networking & IoT
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> -->
+</p>
+
+**Network Skills (TKJ Background):**
+- Network configuration & troubleshooting
+- LAN/WAN setup and management
+- Router & switch configuration (Cisco, MikroTik)
+- Basic network security implementation
+- Cable management & structured cabling
+
 ---
 
 ## 🎯 2026 Development Roadmap
@@ -168,11 +186,10 @@ A fully functional donation management platform serving a real organization, han
 
 **Continuous Learning:**
 
-- 🔐 API Security & Rate Limiting
-- 📦 Database Optimization & Indexing
-- 🚀 CI/CD Pipeline Implementation
-- 🧪 Unit & Integration Testing
-- 📝 Clean Code Principles & Design Patterns
+- API Security & Rate Limiting
+- Database Optimization & Indexing
+- CI/CD Pipeline Implementation
+- Unit & Integration Testing
 
 ---
 
@@ -180,8 +197,6 @@ A fully functional donation management platform serving a real organization, han
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
 
 ---
 
