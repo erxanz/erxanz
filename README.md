@@ -139,16 +139,6 @@ A fully functional donation management platform serving a real organization, han
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erxanz&theme=tokyo-night&hide_border=true" />
-</div>
-
 ---
 
 ## 🎯 2026 Development Roadmap
@@ -185,6 +175,19 @@ A fully functional donation management platform serving a real organization, han
 - 📝 Clean Code Principles & Design Patterns
 
 ---
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erxanz&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
