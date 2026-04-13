@@ -3,21 +3,27 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"/>
   Informatics Student | Backend Developer | Open to Internship Opportunities
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"/>
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erxanz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-red" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" alt="focus" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-red" alt="location" />
 </p>
 
 <p align="center">
-  <a href="mailto:badiobkl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/erxanz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:badiobkl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/erxanz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
 </p>
 
 ---
@@ -31,24 +37,20 @@ const rahman = {
     currentFocus: "Backend Development",
     lookingFor: "Junior Backend Developer Internship",
 
-    dailyRoutine: function() {
-        return ["Code", "Learn", "Build Projects", "Repeat"];
-    },
+    dailyRoutine: () => ["Code", "Learn", "Build Projects", "Repeat"],
 
     quote: "Progress over perfection - Every day is a chance to improve"
 };
 ```
 
-🎯 **Current Status:** Actively seeking **Junior Backend Developer Internship** opportunities
-
 📚 **Learning Journey:**
 
-- Building robust backend systems with **Laravel** and **PHP**
+- Building robust backend systems with **Laravel** & **PHP**
 - Exploring **Node.js** and modern JavaScript frameworks
 - Working with **MySQL** and database optimization
 - Learning **Linux Server Administration** and deployment
 - Understanding authentication, security, and best practices
-
+- Exploring **Web3 development** (Smart Contracts, Blockchain basics, Solana ecosystem)
 ---
 
 ## 🚀 Featured Project
@@ -61,40 +63,6 @@ const rahman = {
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)]()
 
 </div>
-
-**Role:** Backend Developer
-**Organization:** LAZISMU Universitas Muhammadiyah Bengkulu
-
-A fully functional donation management platform serving a real organization, handling donation transactions and administrative operations.
-
-#### 💡 Key Achievements
-
-- ✅ Developed complete backend architecture from scratch
-- ✅ Implemented secure authentication & authorization system
-- ✅ Designed and optimized MySQL database schema
-- ✅ Deployed application on Linux server with Nginx
-- ✅ Created admin dashboard for donation management
-- ✅ Handled real user data with security best practices
-
-#### 🛠️ Technical Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### 📈 What I Learned
-
-- Full-stack deployment workflow on production servers
-- Database design for scalable applications
-- Security implementation (validation, sanitization, authentication)
-- Working with real stakeholders and requirements
-- Code documentation and version control with Git
-
----
 
 ## 🛠️ Technical Skills
 
@@ -112,6 +80,7 @@ A fully functional donation management platform serving a real organization, han
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ### Databases
@@ -140,9 +109,9 @@ A fully functional donation management platform serving a real organization, han
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> -->
 </p>
 
@@ -154,41 +123,6 @@ A fully functional donation management platform serving a real organization, han
 - Cable management & structured cabling
 
 ---
-
-## 🎯 2026 Development Roadmap
-
-<table>
-  <tr>
-    <td>✅</td>
-    <td><b>Q1 2026</b></td>
-    <td>Master Node.js fundamentals and Express.js framework</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td><b>Q2 2026</b></td>
-    <td>Build RESTful APIs with authentication & authorization</td>
-  </tr>
-  <tr>
-    <td>📅</td>
-    <td><b>Q3 2026</b></td>
-    <td>Learn microservices architecture and Docker containerization</td>
-  </tr>
-  <tr>
-    <td>📅</td>
-    <td><b>Q4 2026</b></td>
-    <td>Deploy mini server using Armbian Linux with proper security</td>
-  </tr>
-</table>
-
-**Continuous Learning:**
-
-- API Security & Rate Limiting
-- Database Optimization & Indexing
-- CI/CD Pipeline Implementation
-- Unit & Integration Testing
-
----
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
