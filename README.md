@@ -3,10 +3,12 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"/>
-  Informatics Student | Backend Developer | Open to Internship Opportunities
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"/>
+  Backend Developer & IT Infrastructure Enthusiast
 </h3>
+
+<p align="center">
+  <strong>Informatics Engineering Student | Backend Development Focus | Open to Professional Roles</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erxanz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -28,43 +30,33 @@
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-```javascript
-const rahman = {
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Engineering Student",
-    currentFocus: "Backend Development",
-    lookingFor: "Junior Backend Developer Internship",
+I am an **Informatics Engineering student** and **Backend Developer** with a strong foundation in computer networking and IT infrastructure (TKJ background). I have experience building web applications and backend systems, managing databases, and working with server environments.
 
-    dailyRoutine: () => ["Code", "Learn", "Build Projects", "Repeat"],
+I am focused on writing clean and efficient code while continuously improving my technical skills. I am adaptable, able to work well in a team, and ready to contribute in professional environments that value collaboration, problem-solving, and continuous learning.
 
-    quote: "Progress over perfection - Every day is a chance to improve"
-};
-```
+## Technical & Professional Focus
 
-📚 **Learning Journey:**
-
-- Building robust backend systems with **Laravel** & **PHP**
-- Exploring **Node.js** and modern JavaScript frameworks
-- Working with **MySQL** and database optimization
-- Learning **Linux Server Administration** and deployment
-- Understanding authentication, security, and best practices
-- Exploring **Web3 development** (Smart Contracts, Blockchain basics, Solana ecosystem)
+- **Backend Development:** Building web applications and backend services using **Laravel**, **PHP**, **Node.js**, and **Next.js**.
+- **Database Management:** Designing and managing databases with **MySQL** and **MariaDB**, including writing efficient queries.  
+- **Infrastructure & Deployment:** Basic experience in **Linux Server Administration**, **Nginx** configuration, and deployment processes.
+- **Systems & Networking:** Understanding LAN/WAN configuration, routing concepts, and networking devices such as **Cisco** and **MikroTik**.
+- **Professional Skills:** Problem-solving, teamwork, technical documentation, and continuous learning.
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
 ### LAZISMU UMB Donation Management System
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://lazismu.umb.ac.id)
-[![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)]()
+<!-- [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)]() -->
 
 </div>
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -110,7 +102,7 @@ const rahman = {
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> -->
 </p>
@@ -136,18 +128,18 @@ const rahman = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
-  I'm actively looking for <b>Junior Backend Developer Internship</b> opportunities where I can contribute, learn, and grow.
+  I'm actively looking for <b>Backend Developer Internships & Professional Roles</b> where I can contribute to impactful projects, streamline technical workflows, and deliver value to clients and management.
 </p>
 
 <div align="center">
-  
+
   [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badiobkl@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
   [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://etres.my.id)
-  
+
 </div>
 
 ---
