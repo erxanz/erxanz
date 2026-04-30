@@ -45,16 +45,16 @@ I am focused on writing clean and efficient code while continuously improving my
 - **Professional Skills:** Problem-solving, teamwork, technical documentation, and continuous learning.
 ---
 
-## Featured Project
+<!-- ## Featured Project -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-### LAZISMU UMB Donation Management System
+<!-- ### LAZISMU UMB Donation Management System -->
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://lazismu.umb.ac.id)
+<!-- [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://lazismu.umb.ac.id) -->
 <!-- [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge)]() -->
 
-</div>
+<!-- </div> -->
 
 ## Technical Skills
 
